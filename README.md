@@ -28,3 +28,7 @@ See this YouTube video explaining how it works and how to use it: https://youtu.
 
 - If you encounter any issues, please check your FFmpeg installation and ensure the script is placed in the correct folder.
 
+## Buy me a coffee
+
+- If you find this helpful consider sending me a bit of $ <3
+-   ko-fi.com/nathanaelnewton
