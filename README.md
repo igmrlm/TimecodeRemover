@@ -31,4 +31,4 @@ See this YouTube video explaining how it works and how to use it: https://youtu.
 ## Buy me a coffee
 
 - If you find this helpful consider sending me a bit of $ <3
--   ko-fi.com/nathanaelnewton
+-   https://ko-fi.com/nathanaelnewton
